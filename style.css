@@ -88,5 +88,8 @@ background-color: #0069d9;
 border-color: #0069d9;
 }
 footer{
-  border: 1px 0 0 0 solid #ccc
+  border: 1px 0 0 0 solid #ccc;
+  color: #ccc;
+  margin-top: 80px;
+  padding-top: 20px;
 }
